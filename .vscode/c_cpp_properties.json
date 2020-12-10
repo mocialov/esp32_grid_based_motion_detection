@@ -6,8 +6,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "/home/mocialov/Documents/PlatformIO/Projects/201210-005315-esp32cam/include",
-                "/home/mocialov/Documents/PlatformIO/Projects/201210-005315-esp32cam/src",
+                "/home/mocialov/Downloads/esp32_grid_based_motion_detection/include",
+                "/home/mocialov/Downloads/esp32_grid_based_motion_detection/src",
                 "/home/mocialov/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                 "/home/mocialov/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                 "/home/mocialov/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
@@ -98,8 +98,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/mocialov/Documents/PlatformIO/Projects/201210-005315-esp32cam/include",
-                    "/home/mocialov/Documents/PlatformIO/Projects/201210-005315-esp32cam/src",
+                    "/home/mocialov/Downloads/esp32_grid_based_motion_detection/include",
+                    "/home/mocialov/Downloads/esp32_grid_based_motion_detection/src",
                     "/home/mocialov/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config",
                     "/home/mocialov/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace",
                     "/home/mocialov/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update",
